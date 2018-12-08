@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GrpcLearn.iml" filepath="$PROJECT_DIR$/GrpcLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LQian-Grpc-client/LQian-Grpc-client.iml" filepath="$PROJECT_DIR$/LQian-Grpc-client/LQian-Grpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LQian-Grpc-dependency/LQian-Grpc-dependency.iml" filepath="$PROJECT_DIR$/LQian-Grpc-dependency/LQian-Grpc-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LQian-Grpc-proto/LQian-Grpc-proto.iml" filepath="$PROJECT_DIR$/LQian-Grpc-proto/LQian-Grpc-proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LQian-Grpc-server/LQian-Grpc-server.iml" filepath="$PROJECT_DIR$/LQian-Grpc-server/LQian-Grpc-server.iml" />
+    </modules>
+  </component>
+</project>
